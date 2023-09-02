@@ -1,0 +1,10 @@
+@media (min-width: 901px) {
+  .t-HeroRegion-title {
+    font-family: 'Anton', sans-serif;
+    font-size: 33px; /* You can adjust this value for the desired font size */
+    font-weight: 800;
+    color: #120a30; /* Adjust color to your preference */
+    display: flex;
+    align-items: center;
+    text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.803); /* Add a subtle text shadow */
+}
