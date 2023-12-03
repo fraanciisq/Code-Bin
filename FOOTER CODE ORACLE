@@ -1,0 +1,38 @@
+<!-- Existing content on the left -->
+<div style="float: left; margin-right: 20px;">
+    <p style="font-weight: bold; font-size: 11px;">Department of Tourism:</p>
+    <a href="https://beta.tourism.gov.ph/" target="_blank">
+        <img src="#APP_FILES#Department_of_Tourism__DOT_.svg-removebg-preview.png" alt="DOT" style="width: 80px; height: 70px; margin-bottom: 20px" />
+    </a>
+    <a href="https://beta.tourism.gov.ph/" target="_blank">
+        <img src="#APP_FILES#love_the_ph-removebg-preview.png" alt="LOVE" style="width: 80px; height: 70px; margin-left: 10px; margin-bottom: 20px;" />
+    </a>
+</div>
+
+<!-- New copy centered -->
+<div style="text-align: center;">
+    <p style="font-weight: bold; margin-right: 150px;font-size: 11px">Partnered Agencies:</p>
+    <a href="https://tieza.gov.ph/online-travel-tax-payment-system/?gad_source=1&gclid=Cj0KCQiA67CrBhC1ARIsACKAa8T58SxUMwiOZ6LSww-5-lm4g-38hQZdKfqHQB7q3D0S5u0xo7gJj68aAu4bEALw_wcB" target="_blank">
+        <img src="#APP_FILES#tieza.png" alt="TIEZA" style="width: 80px; height: 70px; margin-bottom: 20px;" />
+    </a>
+    <!-- <a href="https://www.facebook.com/dotregion5/" target="_blank">
+        <img src="#APP_FILES#Exciting bicol.jpg" alt="BICOL" style="width: 120px; height: 80px; margin-left: 15px; margin-bottom: 20px;" />
+    </a> -->
+     <a href="https://www.dfp.com.ph/" target="_blank">
+        <img src="#APP_FILES#dutyfree.jpg" alt="DF" style="width: 80px; height: 70px; margin-left: 15px; margin-bottom: 20px;" />
+    </a>
+     <a href="https://www.facebook.com/nayongpilipinoofficial/" target="_blank">
+        <img src="#APP_FILES#nayong.png" alt="NAYONG" style="width: 100px; height: 70px; margin-left: 15px; margin-bottom: 20px;" />
+    </a>
+     <a href="https://pra.gov.ph/" target="_blank">
+        <img src="#APP_FILES#pra.png" alt="PRA" style="width: 80px; height: 70px; margin-left: 15px; margin-bottom: 20px;" />
+    </a>
+         <a href="https://intramuros.gov.ph/" target="_blank">
+        <img src="#APP_FILES#intra.jpg" alt="INTRA" style="width: 80px; height: 70px; margin-left: 15px; margin-bottom: 20px;" />
+    </a>
+         <a href="https://www.divephilippines.com.ph/" target="_blank">
+        <img src="#APP_FILES#diveph.png" alt="DIVE" style="width: 80px; height: 70px; margin-left: 15px; margin-bottom: 20px;" />
+    </a>
+     
+</div>
+
