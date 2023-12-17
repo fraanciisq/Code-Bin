@@ -1,0 +1,2 @@
+var button = parent.$('.ui-dialog-titlebar-close'); //get the button
+button.hide(); //hide the button
